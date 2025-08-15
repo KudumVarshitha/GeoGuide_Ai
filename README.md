@@ -1,1 +1,1 @@
-# GeoGuide_Ai
+# Geoguide
